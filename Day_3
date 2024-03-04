@@ -1,0 +1,11 @@
+num1 = float(input("Enter1st number: "))
+num2 = float(input("Enter 2nd number"))
+sum1 = num1+num2
+difference = num1- num2
+product = num1*num2
+quotient = num1/num2
+
+print(f"1. Sum of the two numbers: {sum1}")
+print(f"2. Result of subtraction: {difference}")
+print(f"3. Product of the two numbers: {product}")
+print(f"4. Quotient of division: {quotient}")
