@@ -1,0 +1,2 @@
+input_string = "Pikachu"
+print ("My favorite Pokemon is "+input_string)
